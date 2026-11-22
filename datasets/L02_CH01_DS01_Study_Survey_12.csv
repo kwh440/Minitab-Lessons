@@ -1,0 +1,13 @@
+Student ID,Programme,Study Hours,Satisfaction,Survey Date,Passed
+S01,Science,12,4,2026-09-14,Yes
+S02,Arts,6,3,2026-09-14,No
+S03,Engineering,15,5,2026-09-15,Yes
+S04,Science,9,4,2026-09-15,Yes
+S05,Arts,4,2,2026-09-16,No
+S06,Engineering,11,4,2026-09-16,Yes
+S07,Science,14,5,2026-09-17,Yes
+S08,Arts,8,3,2026-09-17,Yes
+S09,Engineering,7,3,2026-09-18,No
+S10,Science,10,4,2026-09-18,Yes
+S11,Arts,5,2,2026-09-19,No
+S12,Engineering,13,5,2026-09-19,Yes
